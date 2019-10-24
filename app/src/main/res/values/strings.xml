@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Deli</string>
+    <string name="chick">CHICKEN</string>
+    <string name="ice">ICE CREAM</string>
+    <string name="burger">BURGER</string>
+    <string name="cupcake">CUP CAKE</string>
+    <string name="cookie">COOKIE</string>
+    <string name="hotd">HOTDOG</string>
+    <string name="coffee">COFFEE</string>
+    <string name="fries">FRENCH FRIES</string>
+
+    <string name="KSH">Ksh.0</string>
+    <string name="prefLocation">Preferred Pickup Location</string>
+    <string name="quant">Quantity</string>
+    <string name="DESC">Description</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="cnp">Confirm &amp; Pay</string>
+</resources>
